@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body{
+    font-family: "Hiragino Kaku Gothic ProN","メイリオ", sans-serif;
+    background-color: aliceblue;
+    font-size: 16px;
+}
+
+.item{
+    float:left;
+}
+
+.input-area{
+    float: left;
+}
